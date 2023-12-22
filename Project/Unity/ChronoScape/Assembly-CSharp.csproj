@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{f47f6dff-6db3-b761-55b3-af8c9e819010}</ProjectGuid>
+    <ProjectGuid>{ec984ef0-6482-46d9-3af7-3aec7e4f499d}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -43,6 +43,7 @@
   <ItemGroup>
      <Folder Include="Assets" />
      <Folder Include="Assets\Unity.VisualScripting.Generated\VisualScripting.Flow" />
+     <Folder Include="Assets\Sprites" />
      <Folder Include="Assets\Unity.VisualScripting.Generated\VisualScripting.Core\Variables" />
      <Folder Include="Assets\Unity.VisualScripting.Generated\VisualScripting.Core" />
      <Folder Include="Assets\ScriptGraphs" />
@@ -52,6 +53,7 @@
      <Folder Include="Assets\Scenes" />
      <Folder Include="Assets\Materials" />
      <Folder Include="Assets\Misc" />
+     <Folder Include="Assets\Shaders" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.15f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>

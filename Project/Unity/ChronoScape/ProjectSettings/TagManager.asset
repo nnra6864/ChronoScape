@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Player
+    uniqueID: 3895640653
+    locked: 0
+  - name: Lightning
+    uniqueID: 3394679517
+    locked: 0
+  - name: Clouds
+    uniqueID: 4274568391
+    locked: 0
