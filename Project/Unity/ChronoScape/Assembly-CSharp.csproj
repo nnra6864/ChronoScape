@@ -47,6 +47,7 @@
      <Folder Include="Assets\Unity.VisualScripting.Generated\VisualScripting.Core\Variables" />
      <Folder Include="Assets\Unity.VisualScripting.Generated\VisualScripting.Core" />
      <Folder Include="Assets\ScriptGraphs" />
+     <Folder Include="Assets\Prefabs" />
      <Folder Include="Assets\Misc\URP" />
      <Folder Include="Assets\Unity.VisualScripting.Generated\VisualScripting.Core\Variables\Resources" />
      <Folder Include="Assets\Unity.VisualScripting.Generated" />
