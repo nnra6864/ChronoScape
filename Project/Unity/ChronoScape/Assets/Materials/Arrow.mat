@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: BG
-  m_Shader: {fileID: -6465566751694194690, guid: 58b24528ae3c58e49a84071ec0a54591, type: 3}
+  m_Name: Arrow
+  m_Shader: {fileID: -6465566751694194690, guid: bf59cfbfd841098418caa6cf493e88c1, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -41,7 +41,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: b9e229b813f68c04383c9b5a6fdf097d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTex:
@@ -66,27 +66,28 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BGGradientNoiseScaleSize: 0.3
-    - _BGSimpleNoiseScale: 1
-    - _BGSpeed: 1
+    - _Bottom: 1
     - _ColorScaleX: 100
     - _ColorScaleY: 100
+    - _DecalMeshBiasType: 0
+    - _DecalMeshDepthBias: 0
+    - _DecalMeshViewBias: 0
+    - _DisctortionScale: 5
+    - _Distortion: 0.25
+    - _DistortionScale: 1
+    - _DistortionSpeed: 1
+    - _DrawOrder: 0
     - _EnableExternalAlpha: 0
-    - _GradientNoiseScaleSize: 0.1
-    - _GradientNoiseScaleSpeed: 1
-    - _GradientNoiseSpeed: 5
-    - _SimpleNoiseScale: 3
-    - _SimpleNoiseSpeed: 2.5
-    - _Speed: 1
+    - _GradientNoiseScaleSize: 1.2
+    - _PreDistortion: 0.25
+    - _PreDistortionScale: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _SimpleNoiseScale: 2
+    - _Speed: 0.1
+    - _Top: 1
     m_Colors:
-    - _BGColor: {r: 0.09758736, g: 0.116970696, b: 0.14995982, a: 1}
-    - _BGMinMax: {r: 0.5, g: 1, b: 0, a: 0}
-    - _Color: {r: 0, g: 466.6075, b: 766.9962, a: 1}
+    - _Color: {r: 10.039216, g: 9.903477, b: 0, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
-    - _MinMax: {r: 0, g: 1, b: 0, a: 0}
-    - _MinMax_1: {r: 0, g: 0, b: 0, a: 0}
-    - _MinMax_2: {r: 0, g: 0, b: 0, a: 0}
-    - _MinMax_3: {r: 0, g: 0, b: 0, a: 0}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Smoothstep: {r: 0.9, g: 3, b: 0, a: 0}
   m_BuildTextureStacks: []

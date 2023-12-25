@@ -50,3 +50,6 @@ TagManager:
   - name: Clouds
     uniqueID: 4274568391
     locked: 0
+  - name: Overlay
+    uniqueID: 1018789339
+    locked: 0
