@@ -87,7 +87,7 @@ Material:
     - _Speed: 0.1
     - _Top: 1
     m_Colors:
-    - _Color: {r: 0, g: 5.019608, b: 10.039216, a: 1}
+    - _Color: {r: 4.3773594, g: 18.260992, b: 32, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
