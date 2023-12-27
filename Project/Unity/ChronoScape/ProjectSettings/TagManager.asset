@@ -49,6 +49,9 @@ TagManager:
   - name: Lightning
     uniqueID: 3394679517
     locked: 0
+  - name: Debris
+    uniqueID: 3060694053
+    locked: 0
   - name: Clouds
     uniqueID: 4274568391
     locked: 0
