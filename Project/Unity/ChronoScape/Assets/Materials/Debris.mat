@@ -89,8 +89,8 @@ Material:
     - _BGMinMax: {r: 0.25, g: 1, b: 0, a: 0}
     - _Color: {r: 14.3396225, g: 22.319942, b: 32, a: 1}
     - _Color2: {r: 1023.9999, g: 919.4554, b: 255.99997, a: 1}
-    - _DebrisSpeed: {r: 14.5, g: 3, b: 0, a: 0}
-    - _DebrisSpeed2: {r: 15, g: -3, b: 0, a: 0}
+    - _DebrisSpeed: {r: 14.5, g: -3, b: 0, a: 0}
+    - _DebrisSpeed2: {r: 15, g: 5, b: 0, a: 0}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _MinMax: {r: 0, g: 1, b: 0, a: 0}
     - _MinMax_1: {r: 0, g: 0, b: 0, a: 0}
