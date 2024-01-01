@@ -1460,9 +1460,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"ZapCountText","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TMPro.TextMeshProUGUI,
-      Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ZapImage","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 137264283}
+    - {fileID: 1427351996}
 --- !u!61 &1114227225
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1741,10 +1743,10 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: e96d76ea172104a4db0be1c3a1175199, type: 3}
-  m_Type: 0
+  m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
-  m_FillMethod: 4
+  m_FillMethod: 1
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
