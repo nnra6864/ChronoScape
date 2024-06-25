@@ -6,4 +6,4 @@ Set in the middle of a thunderstorm, you must navigate through lightning strikes
 
 # [ChronoScape](https://nnra6864.github.io/nnra/?page=Projects&project=24)
 # [ChronoScape on Itch](https://nnra.itch.io/chronoscape) <br/>
-# [ChronoScape on Showcase](https://youtu.be/v5MyKzoEvm0)
+# [ChronoScape on YouTube](https://youtu.be/v5MyKzoEvm0)
